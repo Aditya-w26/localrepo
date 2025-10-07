@@ -1,0 +1,37 @@
+{
+  "name": "khedapati-sarkar-mandir-website",
+  "version": "1.0.0",
+  "description": "A beautiful, spiritually immersive website for Khedapati Sarkar Mandir",
+  "main": "index.js",
+  "scripts": {
+    "dev": "framer dev",
+    "build": "framer build",
+    "start": "framer start"
+  },
+  "dependencies": {
+    "framer-motion": "^10.16.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
+    "styled-components": "^5.3.6",
+    "lucide-react": "^0.263.1",
+    "react-hook-form": "^7.43.5",
+    "react-intersection-observer": "^9.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@types/styled-components": "^5.1.26",
+    "typescript": "^4.9.5"
+  },
+  "keywords": [
+    "temple",
+    "mandir",
+    "spiritual",
+    "hanuman",
+    "devotion",
+    "framer"
+  ],
+  "author": "Khedapati Sarkar Mandir Trust",
+  "license": "MIT"
+}
